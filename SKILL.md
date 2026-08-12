@@ -186,7 +186,7 @@ Variable delivery cost is everything that scales with usage: model inference and
 
 **Cost Structure and Break-even**
 
-- `B3.C1` What is break-even in customers today, and how far from it are you?
+- `B3.C1` B3.C1 What are your structural, operating, and maintenance break-even customer counts, and which one is currently constraining the business?
 - `B3.C2` If you make the next hire you are considering, how many additional customers does that hire require in order not to push break-even backward?
 - `B3.C3` Which fixed cost, if cut, would lower break-even without hurting revenue, retention, or acquisition?
 - `B3.C4` Does cost grow fixed, linearly, or superlinearly as the base grows, and have you measured that empirically?
