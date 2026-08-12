@@ -4,7 +4,7 @@ A Claude Skill that runs a progressive unit economics and scalability diagnostic
 
 It is not a calculator and not a template. It is a structured interrogation: it collects your numbers, checks them against a set of failure conditions, and then walks you question by question through where the model leaks. Every response ends with either a question you have to answer or a task you have to go execute. It is designed to make you think, not to reassure you.
 
-[Português](pt-BR/SKILL.md)
+[Português](pt-br/SKILL.md)
 
 ## What it does
 
