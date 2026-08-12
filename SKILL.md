@@ -65,9 +65,11 @@ Time in operation*:
 
 UNIT ECONOMICS           (fill in what you know)
 CAC (fully loaded):
-Monthly churn (%):
+Monthly revenue churn (%):
+Monthly logo churn (%):
 Variable delivery cost (% of revenue):
 Cost to serve per customer (per month):
+Fixed cost (per month):
 CAC payback (months):
 Gross margin (%):
 
