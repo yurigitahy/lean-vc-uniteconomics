@@ -27,7 +27,7 @@ Every threshold here is a ratio or a time period. None depends on a currency, a 
 | **Cost to serve > 25% of ticket with manual delivery** | cost to serve ÷ ticket | High-touch service on a ticket that cannot fund it. Margin erodes silently as the base grows. |
 | **Single channel > 70% of new customers** | largest channel ÷ total new customers | Acquisition is a single point of failure exposed to platform, algorithm, or partner changes outside the operator's control. |
 | **NRR at or below 100%** | (start + expansion − contraction − churn) ÷ start | No expansion inside the base. All growth must be purchased, forever. |
-| **Gross margin below the model's floor** | see [references/business-models.md](references/business-models.md) | Roughly 70% for software, 40% for transactional, 30% for services-heavy. Below the floor, the model is behaving like a different business than the one it claims to be. |
+| **Gross margin below the model's floor** | see [business-models.md](business-models.md) | Roughly 70% for software, 40% for transactional, 30% for services-heavy. Below the floor, the model is behaving like a different business than the one it claims to be. |
 | **Blended CAC diverging from paid CAC** | paid CAC trending up while blended stays flat | Organic volume is masking deterioration in paid efficiency. The masking ends when organic plateaus. |
 | **Largest vendor > 60% of variable delivery cost** | vendor spend ÷ variable cost | An external party effectively sets gross margin and can change it without negotiation. |
 | **Fewer than 30 customers** | count | Averages are dominated by individuals. Switch to account-level analysis rather than ratios. |
