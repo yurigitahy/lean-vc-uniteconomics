@@ -65,9 +65,11 @@ Tempo de operação*:
 
 UNIT ECONOMICS          (preencher o que souber)
 CAC (totalmente carregado):
-Churn mensal (%):
+Churn mensal de logo (%):
+Churn mensal de receita (%):
 Custo variável de entrega (% da receita):
 Custo de servir por cliente (por mês):
+Custo fixo (por mês): 
 Payback de CAC (meses):
 Margem bruta (%):
 
