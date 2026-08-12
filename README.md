@@ -63,7 +63,7 @@ It will ask for the intake block first. Fill in what you have. Missing fields ar
 │   └── business-models.md          Variants: subscription, usage-based, transactional, services, hardware
 ├── examples/
 │   └── worked-example.md           Full diagnostic opening on a synthetic company
-└── pt-BR/
+└── pt-br/
     └── SKILL.md                    Portuguese version
 ```
 
