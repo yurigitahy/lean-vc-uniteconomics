@@ -23,6 +23,7 @@ Time in operation:        3 years
 
 UNIT ECONOMICS
 CAC (fully loaded):           $3,286
+Monthly logo churn:           2.0%
 Monthly revenue churn:        2.8%
 Variable delivery cost:       11% of revenue ($37 / customer)
 Cost to serve:                $34 / customer / month (1.2 support hours at $28 loaded)
