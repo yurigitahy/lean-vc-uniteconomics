@@ -37,6 +37,13 @@ Break this into its four components before diagnosing growth. A business with st
 
 Track both. When logo churn is high and revenue churn is low, small customers are leaving and the base is concentrating, which is a concentration risk disguised as a retention success. When the reverse is true, large accounts are leaving, which is usually a value delivery failure at the top of the base.
 
+Never convert revenue churn into customer losses.
+
+Logo churn determines customer-count retention.
+Revenue churn determines revenue retention.
+
+If only revenue churn is available, customer losses and net logo additions are unknown.
+
 **Gross revenue retention (GRR)** = (starting revenue − contraction − churn) ÷ starting revenue. Caps at 100%.
 
 **Net revenue retention (NRR)** = (starting revenue + expansion − contraction − churn) ÷ starting revenue.
