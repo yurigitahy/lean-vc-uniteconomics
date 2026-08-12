@@ -16,7 +16,7 @@ The nine Business Model Canvas blocks, regrouped into the three questions that d
 | **B2** | What does it cost to realize that potential? | Channels, customer relationships, partners |
 | **B3** | What does it cost to exist and operate? | Key activities, key resources, cost structure |
 
-Before the first question, it runs thirteen automatic checks against your intake data — negative contribution margin, unmeasured churn, payback beyond 18 months, customer concentration, channel concentration, and others — and surfaces anything red before the conversation proceeds.
+Before the first question, it runs fourteen automatic checks against your intake data — negative contribution margin, unmeasured churn, payback beyond 18 months, customer concentration, channel concentration, and others — and surfaces anything red before the conversation proceeds.
 
 ## What it is not
 
