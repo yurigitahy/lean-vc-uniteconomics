@@ -53,14 +53,23 @@ Derived before any question is asked:
 - CAC payback: `3,286 ÷ 269 = 12.2 months`. Inside the workable band, at its upper edge.
 - LTV (margin method): `(340 × 0.79) ÷ 0.028 = $9,593`. LTV/CAC = `2.9x`. Below the 3x reference, above the 1.5x red line.
 - Payroll per customer: `52,000 ÷ 210 = $248`, against a $340 ticket. Passes.
-- Break-even: `58,000 ÷ 269 = 216 customers`. Currently at 210, six customers short.
+- Structural break-even: 58,000 ÷ 269 = 216 customers.
+The current base of 210 is six customers below structural break-even.
+
+Operating break-even at the current $46,000 monthly acquisition spend:
+(58,000 + 46,000) ÷ 269 = 387 customers.
+
+The current base is 177 customers below operating break-even.
+
+These are different questions. The first asks whether the installed customer base can support the operating structure with acquisition paused. The second asks whether the company is profitable while maintaining its current acquisition effort.
+
 - Customer concentration: 9%. Passes.
 
 **🟡 Single channel > 70% of new customers.** 78% of new customers arrive through one association relationship. This is the only alert firing, and it is the most consequential fact in the intake: the business is roughly one renegotiation away from losing four fifths of its acquisition.
 
 **🟡 Largest vendor > 60% of variable delivery cost.** The cloud provider accounts for 71%. Lower priority given that variable cost is only 11% of revenue, so a 30% price increase moves gross margin by about 2.3 points. Noted, not urgent.
 
-Everything else clears. This is a structurally sound model six customers from break-even with a single point of failure in acquisition. The diagnostic should spend its time on B2 before B1.
+Everything else clears. The installed base is close to covering the operating structure before acquisition spend, but the company is materially below operating break-even at its current growth spend. The distinction matters: the core economics may be close to self-sustaining while the current growth strategy still consumes substantial cash. The diagnostic should spend its time on B2 before B1.
 
 ---
 
@@ -80,7 +89,13 @@ The non-obvious risk sits on the retention side. If association-sourced customer
 
 ## B3.C2 — If you make the next hire, how many additional customers does that hire require in order not to push break-even backward?
 
-You are at 210 customers against a break-even of 216, so you are currently running at a small monthly loss and closing the gap at roughly 14 new customers a month gross, less churn of about 6, for net 8. On the current trajectory you cross break-even inside a month. That timing is what makes the next hiring decision unusually consequential: a hire made now does not slow profitability, it postpones it, and the postponement is measured precisely.
+You are at 210 customers against a break-even of 216.
+At 210 customers, the installed base generates $56,490 in monthly contribution margin.
+Against $58,000 of operating fixed cost, the core operation is only $1,510 below structural break-even.
+But the company is also spending $46,000 per month on acquisition. At the current acquisition level, monthly operating result before other excluded items is approximately -$47,510.
+This means the company is close to structural break-even but far from operating break-even. Those are fundamentally different states.
+
+On the current trajectory you cross break-even inside a month. That timing is what makes the next hiring decision unusually consequential: a hire made now does not slow profitability, it postpones it, and the postponement is measured precisely.
 
 *[Placeholder for sourced compensation benchmarks in the relevant market.]* Assume a fully loaded monthly cost of $7,000 for a mid-level support or sales hire, inclusive of employer costs, tooling, and equipment.
 
