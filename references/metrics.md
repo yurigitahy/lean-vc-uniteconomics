@@ -103,6 +103,26 @@ If contribution margin is negative, growth accelerates cash burn. This is the si
 
 ## Break-even and payback
 
+Never report "break-even" without qualifying which break-even is being calculated:
+
+1. Structural break-even - covers the operating structure with acquisition paused.
+2. Operating break-even - covers the company's current monthly operating and acquisition spend.
+3. Maintenance break-even - covers the operating structure plus the acquisition required to replace churned customers and keep the customer base flat.
+
+Do not describe structural break-even as company profitability.
+
+Structural break-even customers =
+fixed operating costs excluding acquisition spend
+÷ contribution margin per customer
+
+Operating break-even customers =
+(fixed operating costs + current monthly acquisition spend)
+÷ contribution margin per customer
+
+Maintenance break-even customers =
+fixed operating costs
+÷ (contribution margin per customer - logo churn × CAC)
+
 **Break-even in customers** = total monthly fixed cost ÷ contribution margin per customer.
 
 Fixed cost includes all payroll not already counted in cost to serve or CAC, plus rent, non-variable software, insurance, accounting, and general overhead.
