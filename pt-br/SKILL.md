@@ -186,7 +186,7 @@ Custo variável de entrega é tudo que escala com uso: inferência de modelos e 
 
 **Estrutura de Custos e Break-even**
 
-- `B3.C1` Qual é o break-even em clientes hoje, e a que distância você está dele?
+- `B3.C1` Quantos clientes você precisa para atingir o break-even estrutural, operacional e de manutenção, e qual desses três limites está travando o negócio hoje?
 - `B3.C2` Se você fizer a próxima contratação que está considerando, quantos clientes adicionais ela exige para não empurrar o break-even para trás?
 - `B3.C3` Qual custo fixo, se cortado, reduziria o break-even sem impactar receita, retenção ou aquisição?
 - `B3.C4` Seu custo cresce de forma fixa, linear ou superlinear conforme a base cresce, e você mediu isso empiricamente?
