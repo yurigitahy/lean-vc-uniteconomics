@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local and private
+.env
+.env.*
+/local/
+/private/
+*.local.md
+
+# Runtime output from actual diagnostics — never commit client data
+/runs/
+/output/
+*-intake.md
+*-diagnostic.md
